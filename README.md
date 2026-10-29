@@ -1,5 +1,5 @@
 TEXT CLASSIFICATION BATTLE
-Task 2 --- Compare, Analyze and Defend
+Task 2 -Compare, Analyze and Defend
 Team Member 1: Siva Balan S
 Team Member 2: Shailesh M
 

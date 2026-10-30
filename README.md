@@ -1,7 +1,7 @@
 TEXT CLASSIFICATION BATTLE
 Task 2 -Compare, Analyze and Defend
-Team Member 1: Siva Balan S
-Team Member 2: Shailesh M
+Team Member 1: Siva Balan S(RA2411026050230)
+Team Member 2: Shailesh M (RA2411026050223)
 
 Course: Information Retrieval
 Institution: SRM Institute of Science and Technology
